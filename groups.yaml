@@ -1,0 +1,7 @@
+living_room:
+  name: Living Room
+  view: yes
+  entities:
+    - switch.cabinet_lamp_switch
+    - switch.floor_lamp_switch
+    - switch.main_lights_switch
